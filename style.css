@@ -1,0 +1,18 @@
+body{
+    background-color: aliceblue;
+    color: black;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    background-color: rgb(202, 255, 224) ; 
+}
+
+p{
+    text-align: center;
+}
+
+em strong{
+        color: red;
+)
