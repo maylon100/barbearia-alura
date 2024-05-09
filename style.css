@@ -23,11 +23,12 @@ em strong{
 }
 
 .beneficios{
- background: rgb(0, 0, 0);
+ background: rgb(0, 0, 0);    
+ padding: 20px;
 }
 
-.beneficios{
-    padding: 20px;
+.imagembeneficios{
+    width: 50%;
 }
 
 h2{
