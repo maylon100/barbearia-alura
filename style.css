@@ -16,7 +16,28 @@ p{
 
 em strong{
         color: red;
-)
+}
+
 #baner{
     width: 70%;
+}
+
+.beneficios{
+ background: rgb(0, 0, 0);
+}
+
+.beneficios{
+    padding: 20px;
+}
+
+h2{
+    text-align: center;
+}
+
+ul{
+    diplay-inlen-blok;
+    vertical-aling: top;
+    width: 20px;
+    margin-rig
+
 }
