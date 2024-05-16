@@ -1,44 +1,60 @@
-body{
-    background-color: rgb(0, 0, 0);
-    color: rgb(247, 240, 240);
-    text-align: center;
+body {
+    background-color: black;
+    text-align: left;
+    color: aliceblue;
+
 }
 
 h1 {
+    background-color: red;
     text-align: center;
-    background-color: rgb(0, 0, 0) ; 
-    color: rgb(231, 231, 238);
+    border: 10x solid;
+    padding: 10px;
+    color: black;
 }
 
-p{
+strong {
+    color: red;
+}
+
+#banner {
+    width: 120%;
     text-align: center;
 }
 
-em strong{
-        color: red;
+.principal{
+    background-color: black;
 }
 
-#baner{
-    width: 70%;
+.beneficios {
+background-color:
+#699dac
+    padding: 20px;
 }
 
-.beneficios{
- background: rgb(0, 0, 0);    
- padding: 20px;
+
+h2 {
+    color: rgb(0, 0, 0);
+    background-color: red;
+    text-align: center;
+    border: 10x solid;
+    padding: 10px;
+} 
+
+.itens {
+    text-align: left;
+    font-size: 22px;
 }
 
-.imagembeneficios{
+.imagembeneficios {
     width: 50%;
 }
 
-h2{
-    text-align: center;
-}
-
-ul{
-    diplay-inlen-blok;
-    vertical-aling: top;
-    width: 20px;
-    margin-rig
-
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+    border: 3px solid rgb(0, 0, 0);
+    color: rgb(255, 0, 0);
 }
